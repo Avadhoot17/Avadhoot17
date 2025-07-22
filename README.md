@@ -7,15 +7,16 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👋 Hi, I'm @Avadhoot17
 
-- 🎓 MSc Computer Applications @ Fergusson College, Pune
-- 🧠 Learning React, UI/UX, OpenAI APIs, and Web App Security
-- 🔭 Working on: **ERP Systems**, **Product Managers**, **Summarizers**
-- 📫 Reach me: [avadhootwelde2002@gmail.com](mailto:avadhootwelde2002@gmail.com)  
-  💼 LinkedIn: [linkedin.com/in/avadhootwelde](https://linkedin.com/in/avadhootwelde)
+- 🎓 MSc Computer Applications @ Fergusson College, Pune  
+- 🧠 Currently learning React, UI/UX, OpenAI APIs, and Web App Security  
+- 🔭 Working on: **ERP Systems**, **Product Management Tools**, **AI Summarizers**  
+- 📫 Email: [avadhootwelde2002@gmail.com](mailto:avadhootwelde2002@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/avadhootwelde](https://linkedin.com/in/avadhootwelde)  
+- 🌐 Portfolio: [avadhoot17.github.io/Portfolio](https://avadhoot17.github.io/Portfolio/)  
 - 🧑‍💼 Pronouns: He/Him  
-- 💡 Fun fact: I love building beautiful and useful UIs from scratch
+- 💡 Fun fact: I love building clean, interactive UIs from scratch
 
 ---
 
