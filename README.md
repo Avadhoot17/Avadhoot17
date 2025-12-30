@@ -65,32 +65,24 @@ This role strengthened my **problem-solving**, **communication**, and **real-wor
 
 ## 📈 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Avadhoot17&show_icons=true&theme=github_dark&hide_border=true" 
+    alt="GitHub Stats"
+  />
+</p>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=Avadhoot17&show_icons=true&theme=tokyonight&hide_border=true" 
-  width="420"
-/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avadhoot17&layout=compact&theme=tokyonight&hide_border=true" 
-  width="420"
-/>
-
-</div>
 
 ---
 
 ## 🔁 Contribution Streak
 
-<div align="center">
-
-<img 
-  src="https://streak-stats.demolab.com?user=Avadhoot17&theme=tokyonight&hide_border=true" 
-  width="860"
-/>
-
-</div>
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Avadhoot17&theme=github-dark&hide_border=true" 
+    alt="GitHub Streak"
+  />
+</p>
 
 
 ---
