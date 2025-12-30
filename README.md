@@ -66,23 +66,19 @@ This role strengthened my **problem-solving**, **communication**, and **real-wor
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Avadhoot17&show_icons=true&theme=github_dark&hide_border=true" 
-    alt="GitHub Stats"
-  />
+  <img src="https://img.shields.io/badge/Repos-Public-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Focus-Frontend%20%7C%20Full%20Stack-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Role-Customer%20Success%20Engineer-informational?style=for-the-badge">
 </p>
 
 
 ---
 
-## 🔁 Contribution Streak
+## 🔁 Contribution Consistency
 
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Avadhoot17&theme=github-dark&hide_border=true" 
-    alt="GitHub Streak"
-  />
-</p>
+- 🔥 Regular contributions across multiple real-world projects  
+- 🧩 Focus on meaningful commits, not streak farming  
+- 📦 Active repositories in ERP, Product Systems, and UI projects  
 
 
 ---
