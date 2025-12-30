@@ -65,18 +65,33 @@ This role strengthened my **problem-solving**, **communication**, and **real-wor
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Avadhoot17&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avadhoot17&layout=compact&theme=radical" width="48%" />
-</p>
+<div align="center">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=Avadhoot17&show_icons=true&theme=tokyonight&hide_border=true" 
+  width="420"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avadhoot17&layout=compact&theme=tokyonight&hide_border=true" 
+  width="420"
+/>
+
+</div>
 
 ---
 
 ## 🔁 Contribution Streak
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Avadhoot17&theme=highcontrast" />
-</p>
+<div align="center">
+
+<img 
+  src="https://streak-stats.demolab.com?user=Avadhoot17&theme=tokyonight&hide_border=true" 
+  width="860"
+/>
+
+</div>
+
 
 ---
 
