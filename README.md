@@ -114,6 +114,8 @@ This role strengthened my **problem-solving**, **communication**, and **real-wor
 | **Portfolio Website** | HTML, CSS, JS | Responsive animated personal portfolio | [View](https://github.com/Avadhoot17/Portfolio) |
 | **ProSummarizer** | Node.js, OpenAI API | AI-based long-text summarizer | [View](https://github.com/Avadhoot17/ProSummarizer) |
 | **Spendlight Navigator** | TypeScript | Smart expense tracking UI | [View](https://github.com/Avadhoot17/spendlight-navigator) |
+| **Smart Expense Tracker** | Java, Spring Boot, MySQL | REST API for managing and analyzing daily expenses | [View](https://github.com/Avadhoot17/smart-expense-tracker) |
+
 
 ---
 
