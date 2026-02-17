@@ -115,7 +115,7 @@ This role strengthened my **problem-solving**, **communication**, and **real-wor
 | **ProSummarizer** | Node.js, OpenAI API | AI-based long-text summarizer | [View](https://github.com/Avadhoot17/ProSummarizer) |
 | **Spendlight Navigator** | TypeScript | Smart expense tracking UI | [View](https://github.com/Avadhoot17/spendlight-navigator) |
 | **Smart Expense Tracker** | Java, Spring Boot, MySQL | REST API for managing and analyzing daily expenses | [View](https://github.com/Avadhoot17/smart-expense-tracker) |
-| Student Management System | Java, Servlets, MySQL, HTML, CSS | Web-based CRUD system to manage student records | View|
+| Student Management System | Java, Servlets, MySQL, HTML, CSS | Web-based CRUD system to manage student records | [View](https://github.com/Avadhoot17/student-management-system-java)|
 
 
 ---
