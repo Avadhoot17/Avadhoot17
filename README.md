@@ -5,7 +5,7 @@
 
 
 <h1 align="center">🔥 Hi, I'm Avadhoot Welde (@Avadhoot17) </h1>
-<h3 align="center">Frontend Developer | Customer Success Engineer | AI & UI/UX Enthusiast </h3>
+<h3 align="center">Frontend Developer | Customer Success Engineer | AI & UI/UX Enthusiast  </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Avadhoot17&label=Profile%20views&color=0e75b6&style=flat" />
